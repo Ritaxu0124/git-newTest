@@ -17,4 +17,4 @@ hello git! hello rita!
 hello git! hello rita!
 hello git! hello rita!
 hello git! hello rita!
-hello git! hello rita!
+hello git! hello rita!hot-fix test
